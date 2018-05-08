@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2015\Projects\underStandingArrys\underStandingArrys\bin\Debug\underStandingArrys.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\underStandingArrys\underStandingArrys\bin\Debug\underStandingArrys.exe
+c:\users\andrew\documents\visual studio 2015\Projects\underStandingArrys\underStandingArrys\bin\Debug\underStandingArrys.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\underStandingArrys\underStandingArrys\obj\Debug\underStandingArrys.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\underStandingArrys\underStandingArrys\obj\Debug\underStandingArrys.exe
+c:\users\andrew\documents\visual studio 2015\Projects\underStandingArrys\underStandingArrys\obj\Debug\underStandingArrys.pdb
